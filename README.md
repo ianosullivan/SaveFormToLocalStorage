@@ -7,4 +7,4 @@ $.post('action.cfm', JSON.parse(localStorage.local_form_data), function(data){
     console.log(data);
 })
 ```
-The action file will have FORM scroped values 
+The action file will have FORM scroped variables 
